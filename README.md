@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Restaurant Dining application**
 
-- 🌱 I’m currently learning **Unit testing, Typescript, Websockets, Data structures and algorithms, multithreading in nodejs, System design, react native etc..**
+- 🌱 I’m currently learning **Unit testing, Typescript, Data structures and algorithms, System design, react native etc..**
 
 - 💬 Ask me about **MERN Stack, Web applications, Cloud Services**
 
