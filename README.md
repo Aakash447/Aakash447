@@ -1,23 +1,24 @@
+i have got this beautiful GitHub template
 [![MasterHead](https://github.com/amit-bohra/amit-bohra/blob/main/Make%20your%20README.png)](https://github.com/amit-bohra)
 
 <h1 align="center" style="font-size: 90px;">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="icon" width="90" height="90" />
-  Hi 👋, I'm Amit Bohra   
+  Hi 👋, I'm Aakash Sharma   
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="icon" width="90" height="90" />
 </h1>
-<h3 align="center">🚀 Machine Learning Engineer | Artificial Intelligence (AI) Innovator 🚀</h3>
+<h3 align="center">🚀 Full Stack Developer| MERN Stack Developer 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
-- 🔭 I’m currently working on **AI-Powered Personal Fitness Assistant**
+- 🔭 I’m currently working on **Restaurant dining application**
 
-- 🌱 I’m currently learning **Large Language Models (LLMs), Generative Adversarial Networks (GANs), Transformer Models, Reinforcement Learning, AI Ethics and Fairness, MLOps for Generative AI**
+- 🌱 I’m currently learning **Unit testing, Typescript, Websockets, Data structures and algorithms, multithreading in nodejs, System design, react native etc.. **
 
 - 👨‍💻 All of my projects are available at [https://github.com/amit-bohra](https://github.com/amit-bohra)
 
-- 💬 Ask me about **Machine Learning, AI, NLP, Computer Vision, MLOps, Cloud Services**
+- 💬 Ask me about **MERN Stack, Web applications, Cloud Services**
 
-- 📫 How to reach me **9817kamit@gmail.com**
+- 📫 How to reach me **s.aakash.lh@gmail.com**
 
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1-LJ6I2ony5yb7XkQQvq5eLqXtj4sRR-6/view?usp=sharing" target="_blank">Resume</a>
 
@@ -26,13 +27,13 @@
 <h3>Summary:</h3>
 <p>
 
-  I am a Founding Machine Learning Engineer at Spyn Inc., specializing in Natural Language Processing (NLP), Large Language Models (LLMs), and Computer Vision (CV). I have a strong background in developing Artificial Intelligence (AI)-driven solutions using TensorFlow, PyTorch, and Scikit-learn. My expertise includes building Gesture Recognition Models, AI-powered applications, and automated systems. Skilled in Python, JavaScript, and cloud services like AWS, GCP, and Azure. Passionate about leveraging Data Science, Data Analytics and MLOps to drive innovative solutions in the tech industry.
+  Highly skilled Software Engineer with around 5 years of experience delivering impactful software solutions. Expertise in MERN Stack development, from architecting scalable frontends (Next.js, React) to optimizing backend performance (Node.js, Redis, MySQL, PostgreSQL) and working with microservices and deployments on AWS. Proven ability to drive significant improvements, including an 80% reduction in API response times and a 50% increase in platform reach. 
 
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amitbohra2821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitbohra2821" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aakash-sharma447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitbohra2821" height="30" width="40" /></a>
 </p>
 
 
@@ -201,4 +202,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-bohra&" alt="amit-bohra" /></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" alt="Parrot GIF" />
+
+
+
+
+
+
 
