@@ -1,5 +1,3 @@
-i have got this beautiful GitHub template
-[![MasterHead](https://github.com/amit-bohra/amit-bohra/blob/main/Make%20your%20README.png)](https://github.com/amit-bohra)
 
 <h1 align="center" style="font-size: 90px;">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="icon" width="90" height="90" />
@@ -202,10 +200,4 @@ i have got this beautiful GitHub template
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-bohra&" alt="amit-bohra" /></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" alt="Parrot GIF" />
-
-
-
-
-
-
 
